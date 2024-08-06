@@ -26,4 +26,6 @@
 <br>
 <div align="center">
   <img align="center" src="https://media1.tenor.com/m/lfSiFrmhrv4AAAAC/mewing-cute.gif" width="250">
+  <img align="center" src="https://media1.tenor.com/m/ap6LSaSeQ_kAAAAC/ishowspeed-try-not-to-laugh.gif" width="250">
+  <img align="center" src="https://media1.tenor.com/m/YthOQsbbXScAAAAC/meme-jokowi-jokowi-meme.gif" width="250">
 </div>
