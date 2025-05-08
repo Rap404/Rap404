@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moh. Rafli Dwi Saputra</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
-- 🔭 I’m currently internship at **Pixel Dev Factory**
-
-- 🌱 I’m currently learning **React Js, Flutter, Laravel**
-
-- 👨‍💻 All of my projects are available at [https://mohrafliportfolio.vercel.app/](https://mohrafliportfolio.vercel.app/)
-
-- 💬 Ask me about **Flutter, Django, Construct 2,**
+- 🌱 I’m currently learning **React JS, Flutter, Next JS**
 
 - 📫 How to reach me **adibrafli37@gmail.com**
 
@@ -16,9 +10,6 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
-
-<h3 align="left">Engine:</h3>
-<p align="left"><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 
 <h3 align="left">Framework/Libraries:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
